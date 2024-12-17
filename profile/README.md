@@ -1,1 +1,1 @@
-<img src="https://github.com/5UP3R-D1N/5UP3R-D1N/blob/main/metrics.terminal.svg" style="width:100%"></img>
+Group of developers who love open-source. Named Astral after a very very complex networking in our server.
